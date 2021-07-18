@@ -1,5 +1,8 @@
 # BSC-IT-2SEM-MID-TERM-PRACTICAL-NETWORK-ISSUE-
 
+<H3>NOTE: <B>Both the question compulsory to attempt</b>
+  <P ALIGN=JUSTIFY>(Folder name should be formed by your name and University roll no in GitHub. Do not forget to write your name ,course,section,University roll no in first page of your sheet and do sign each and every page) Files to upload. 1: Hand written code 2: Screenshot of Program output</P></H3>
+
 
 <h1>Q1 PROBLEM STATEMENT<H/1>
 <B><P ALIGN=JUSTIFY>You are given the ‘N’ processes with their “burst times”(p1=3,p2=2,p3=1,p4=4,p5=2), and the “arrival time” for each process is 0.
